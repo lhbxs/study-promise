@@ -1,0 +1,8 @@
+{
+  "name": "study-promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lhbxs/study-promise.git",
+  "author": "lhbxs <8255441+lhbxs@user.noreply.gitee.com>",
+  "license": "MIT"
+}
